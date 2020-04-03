@@ -49,7 +49,7 @@ After installing all the Prerequisite and cloning the repo you can do the follow
 Running the project locally
 ------------------
 
-After you have cloned the repo `git clone https://github.com/PavaniGedala/AWS-Serverless-APIS-Node-MongoDB`
+After you have cloned the repo `git clone https://github.com/PavaniGedala/serverlessAPIs_AWSLambda.git`
 
 And after you have installed the Prerequisites.
 
