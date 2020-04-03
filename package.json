@@ -1,0 +1,25 @@
+{
+  "name": "aws-serverless-apis-node-mongodb",
+  "version": "1.0.0",
+  "description": "NodeJS CRUD APIS using aws lambda and apigateway",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavaniGedala/serverlessAPIs_AWSLambda.git"
+  },
+  "keywords": [
+    "serverless",
+    "lambda"
+  ],
+  "author": "pavani gedala",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.4"
+  },
+  "devDependencies": {
+    "serverless-offline": "^5.12.1"
+  }
+}
